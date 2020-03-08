@@ -3,7 +3,7 @@ skipjack.rs
 
 [![Build Status](https://img.shields.io/github/workflow/status/woodruffw/skipjack.rs/CI/master)](https://github.com/woodruffw/skipjack.rs/actions?query=workflow%3ACI)
 
-**Note:* Skipjack is not suitable for contemporary use. This library exists as an example,
+**Note: Skipjack is not suitable for contemporary use. This library exists as an example,
 and not for consumption.**
 
 skipjack.rs is a straight-line (meaning no branches or loops) Rust implementation of the
