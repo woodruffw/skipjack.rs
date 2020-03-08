@@ -1,0 +1,8 @@
+[package]
+name = "skipjack"
+version = "0.1.0"
+authors = ["William Woodruff <william@yossarian.net>"]
+edition = "2018"
+description = "A straight-line implementation of Skipjack in Rust"
+
+[dependencies]
