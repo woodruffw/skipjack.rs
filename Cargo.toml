@@ -9,6 +9,6 @@ homepage = "https://github.com/woodruffw/skipjack.rs"
 
 [package.metadata.release]
 dev-version = false
-publish = true # handled by GitHub Actions
+publish = false # handled by GitHub Actions
 
 [dependencies]
