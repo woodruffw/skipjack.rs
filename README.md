@@ -1,6 +1,7 @@
 skipjack.rs
 ===========
 
+![license](https://raster.shields.io/badge/license-MIT%20with%20restrictions-green.png)
 [![Build Status](https://img.shields.io/github/workflow/status/woodruffw/skipjack.rs/CI/master)](https://github.com/woodruffw/skipjack.rs/actions?query=workflow%3ACI)
 
 **Note: Skipjack is not suitable for contemporary use. This library exists as an example,
